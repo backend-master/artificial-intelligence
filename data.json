@@ -1,0 +1,39 @@
+{
+  "index": 1,
+  "name": "Artificial Intelligence ( AI )",
+  "detail": "AI adalah kecerdasan buatan yang membantu atau menggantikan tugas dari manusia. Cari tahu lebih lanjut berbagai jenis AI dan akan jadi apa AI dimasa yang akan dantang.",
+  "image": "https://image.freepik.com/free-vector/artificial-intelligence-illustration-with-robots_1124-391.jpg",
+  "color": "0xFF76ee89",
+  "section": [
+    {
+      "index": 1,
+      "title": "Apa itu AI ?",
+      "total": 15,
+      "data": [
+        {
+          "index": 1,
+          "type": 0,
+          "content": "Selamat di Course AI dimana kita akan mempelajari dasar dari AI, bagaiamana cara membuatnya dan akan jadi seperti apa AI di masa depan. \nKita juga sudah membuat sebuah chatbot AI hanya untuk course ini. Coba saja tanyakan sesuatu.",
+          "image": "",
+          "code": [
+            "Q: Apa tujuan kita hidup ? dari mana datangnya alam semesta ? dan bagaiaman proses terjaadinya semua itu ?"
+          ],
+          "output": [
+            {
+              "type": "script.js",
+              "text": "NEXT-AI : Memulai proses penghapusan diri sendiri..... 100% Complete"
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lah ? ternyata nggak jalan hehe. Sebenarnya tidak mudah menjadi master AI, butuh usaha ekstra. Coba kita lihat kenapa ->",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}
