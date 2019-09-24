@@ -1,0 +1,288 @@
+{
+  "index": 2,
+  "title": "Latihan AI ?",
+  "total": 9,
+  "data": [
+    {
+      "index": 1,
+      "type": 0,
+      "content": "Oke ayo kita review pengetahuan kita tentang AI yang telah kita pelajari di chapter sebelumnya.",
+      "image": "book.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Lanjuuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 2,
+      "type": 4,
+      "content": "Apa kepanjangan Dari AI ?",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Niceeee",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Artificial Intercation"
+        },
+        {
+          "index": 2,
+          "text": "Accidental Intelligence"
+        },
+        {
+          "index": 3,
+          "text": "Artificial Intelligence"
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "index": 3,
+      "type": 0,
+      "content": "Mana 1 dari 3 yang mendeskripsikan Mesin yang mempunyai AI",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Itu benar, Kita bisa menyebut mesin yang mempunyai AI dengan Intelligent Agents",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Intelligent Agents"
+        },
+        {
+          "index": 2,
+          "text": "Robots"
+        },
+        {
+          "index": 3,
+          "text": "Agents"
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "index": 4,
+      "type": 3,
+      "content": "Ketika kita berbicara tentang Intelligence, bagaiamana kita mengurutkan dari 3 langkah dibawah ini.",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Mantap. Pertama kita harus mengumpulkan data lalu memprosesnya, kemudian mengimplementasikan-nya.",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Memproses Data"
+        },
+        {
+          "index": 2,
+          "text": "Mengumpulkan Data"
+        },
+        {
+          "index": 3,
+          "text": "Menerapkan Wawasan yang sudah Didapat"
+        }
+      ],
+      "answer": "213"
+    },
+    {
+      "index": 5,
+      "type": 4,
+      "content": "Apa saja singkatan dari 3 kategori AI yang utama?",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Great",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "AN, AG, AS"
+        },
+        {
+          "index": 2,
+          "text": "SAI, GAI, NAI"
+        },
+        {
+          "index": 3,
+          "text": "ANI, AGI, ASI"
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "index": 6,
+      "type": 4,
+      "content": "Apa singkatan dari ANI ?",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Yapss, Narrow artinya AI hanya akan mengerjakan keadaan yang spesifik",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Artificial Narrow Intelligence"
+        },
+        {
+          "index": 2,
+          "text": "Artificial Nascent Intelligence"
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "index": 7,
+      "type": 4,
+      "content": "Dibawah ini mana yang termasuk dari Test yang terkenal untuk Artficial Intelligence ?",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Benar! Turing Test diciptakan oleh Alan Turing dan salah satu metode yang terkenal untuk menilai AI sudah menyerupai manusia",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Turning Test"
+        },
+        {
+          "index": 2,
+          "text": "Tatum Test"
+        },
+        {
+          "index": 3,
+          "text": "Turing Test"
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "index": 8,
+      "type": 4,
+      "content": "Apa kepanjangan dari AGI ?",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Betul sekali, meskipun AGI itu memang jenius dari pada ANI tapi kepanjangan dari AGI itu Artificial General Intelligence",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Artificial Genuine Intelligence"
+        },
+        {
+          "index": 2,
+          "text": "Artificial General Intelligence"
+        }
+      ],
+      "answer": "2"
+    },
+    {
+      "index": 9,
+      "type": 4,
+      "content": "Apa kepanjangan ari ASI ?",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Awesome",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Artificial Super Intelligence"
+        },
+        {
+          "index": 2,
+          "text": "Artificial Sentient Intelligence"
+        }
+      ],
+      "answer": "1"
+    }
+  ]
+}
