@@ -370,7 +370,7 @@
         {
           "index": 15,
           "type": 0,
-          "content": "Ketika kita ",
+          "content": "Ketika kita sudah mengetahui tentang AGI, kita bisa pindah ke AI yang selanjutnya yaitu: ASI, atau Artificial Super Intelligence. \nASI adalah salah satu dari kebanyakan orang khawatirkan ketika ASI mungkin akan lebih pintar daripada kebanyakan Orang. Kita akan melanjutan ASI ini di next chapter.",
           "image": "terminator.jpg",
           "code": [],
           "output": [
@@ -383,23 +383,10 @@
               "text": ""
             }
           ],
-          "note": "Tepat Sekali ! Pemrosesan data adalah penghambat kita saat ini, Kita tidak yakin bagaimana membuat mesin berpikiran sama seperti manusia pikirkan.",
-          "question": "Pilih satu jawaban yang benar.",
-          "choice": [
-            {
-              "index": 1,
-              "text": "Menerapkan Pengetahuan"
-            },
-            {
-              "index": 2,
-              "text": "Pemrosesan Data"
-            },
-            {
-              "index": 3,
-              "text": "Mengumpulkan Data"
-            }
-          ],
-          "answer": "2"
+          "note": "Niceeee",
+          "question": "",
+          "choice": [],
+          "answer": ""
         }
       ]
     }
