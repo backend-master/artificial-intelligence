@@ -21,7 +21,7 @@
           "output": [
             {
               "type": "script.js",
-              "text": "NEXT-AI : Memulai proses penghapusan diri sendiri..... 100% Complete"
+              "text": "NEXT-AI: Memulai proses penghapusan diri sendiri..... 100% Complete"
             },
             {
               "type": "browser",
@@ -32,6 +32,374 @@
           "question": "",
           "choice": [],
           "answer": ""
+        },
+        {
+          "index": 2,
+          "type": 4,
+          "content": "AI adalah singkatan dari Artificial Intelligence. Itu hanya sebuah sebutan yang menandakan bahwa kecerdasan itu (AI) diciptikan oleh manusia. \nAda istilah khusus untuk mesin yang mempunyai kecerdasan buatan. Apa kamu bisa menebak itu ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Yaps Benar ! Agent berarti kalau dia adalah \"sesuatu\" yang melakukan aksi atau tindakan.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Intelligent Machines"
+            },
+            {
+              "index": 2,
+              "text": "Intelligent Agents"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 3,
+          "type": 3,
+          "content": "Ketika kita bicara tentang Intelligence, kita merujuk pada kemampuan untuk Mengumpulkan, Memproses dan Menerapkan.",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Sangat Tepat! Itu adalah perulangan yang paling utama dari semua Intelligence Agent atau apapun yang hidup.",
+          "question": "Bisakah kamu mengurutkan langkah-langkah yang benar ?",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Memproses Data"
+            },
+            {
+              "index": 2,
+              "text": "Mengumpulkan Data"
+            },
+            {
+              "index": 3,
+              "text": "Menerapkan Wawasan yang sudah Didapat"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "index": 4,
+          "type": 0,
+          "content": "Tapi tidak semua Kecerdasan bermaksud untuk sebuah terobosan. \nFaktanya ada beberapa tipe dari AI, Semuanya bervariasi sesuai dengan tingkat kecerdasan mereka.",
+          "image": "robot2.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Oke Lanjut ->",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 5,
+          "type": 0,
+          "content": "AI sudah terintegrasi di banyak aplikasi yang kita sehari-harinya sudah sering berinteraksi. \nJika kita memperhatikan sekitar kita, banyak sekali AI di sekitar kita, tidak hanya di film-film science fiksi saja.",
+          "image": "ai-gadget.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjuut ->",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 6,
+          "type": 0,
+          "content": "Yang pertama dan yang paling basic dari AI adalah ANI atau Artificial Narrow Intelligence. \nDikatakan Narrow karena hanya bisa melakukan tugas yang telah ditentukan sebelumnya.",
+          "image": "gear1.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjut lagi ->",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 7,
+          "type": 0,
+          "content": "Narrow AI dapat melakukan tugas yang diprogram untuk melakukannya dengan sangat baik. \nNamun Narrow AI akan kebingungan jika kamu menyuruhnya mengerjakan tugas baru yang sebelumnya belum pernah di definisikan dan di program.",
+          "code": [],
+          "image": "gear.png",
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Oke Next ->",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 8,
+          "type": 2,
+          "content": "Narrow AI dapat mengambil bentuk yang berbeda-beda. \nBisakah kamu mencari tahu berapa banyak dari contoh ini yang bisa dipertimbangkan sebagai Narrow AI ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Bagus, semua dari contoh ini adalah narrow AI",
+          "question": "Pilih satu atau lebih jawaban yang benar.",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Speech recognition software"
+            },
+            {
+              "index": 2,
+              "text": "Spam filters"
+            },
+            {
+              "index": 3,
+              "text": "Self-driving cars"
+            }
+          ],
+          "answer": "123"
+        },
+        {
+          "index": 9,
+          "type": 0,
+          "content": "Hanya karena Narrow AI itu terbatas, bukan berarti Narrow AI tidak begitu berguna. Banyak perusahaan yang menggunakan ANI Chatbot sebagai Customer Service.",
+          "image": "",
+          "code": ["Q: Tuliskan aku Puisi"],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": "NEXT-AI: Mawar itu merah, Violet itu biru. \nAku akan marah jika kamu punya pacar baru."
+            }
+          ],
+          "note": "Yaps, Mungkin kamu sering juga berinterikasi dengan Chatbot semacam ini.",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 10,
+          "type": 0,
+          "content": "Chabot adalah beberapa AI pertama yang mencoba lulus dari test Kecerdasan Buatan. \nTest ini dinamakan Turing Test, dinamai oleh sang pembuatnya yaitu, Alan Turing.",
+          "image": "alan_turing.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjutkan gan ->",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 11,
+          "type": 0,
+          "content": "Dalam Turing Test, Jurinya adalah manusia yang akan melakukan percakapan dengan Manusia lain dan juga dengan Mesin. \nJika jurinya tidak bisa membedakan, maka AI berhasil melewati Test ini",
+          "image": "people-speaking.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Oke Lanjut ->",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 12,
+          "type": 0,
+          "content": "Berhasil melewati Turing Test hanyalah satu hal, karena Developer dari AI selalu mempunyai pandangan yang jauh kedepan. \nMereka ingin menciptakan AGI atau biasa disebut dengan Artificial General Intelligence.",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Mantapkan ? Kuy lanjut.",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 13,
+          "type": 2,
+          "content": "General Intelligence akan setingkat dengan kecerdasan manusia.  \nMenurut kamu bagaimana tentang maksud dari General Intelligence ini ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Niceee ! AGI sanggup melakukan tugas-tugas yang umum tanpa adanya bantuan dan mencari solusi sendiri.",
+          "question": "Pilih satu atau lebih jawaban yang benar.",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Melakukan tugas yang umum tanpa adanya bantuan"
+            },
+            {
+              "index": 2,
+              "text": "Mencari tahu solusi tanp adanya bantuan"
+            },
+            {
+              "index": 3,
+              "text": "Hanya melakukan tugas yang telah ditentukan sebelmunya"
+            }
+          ],
+          "answer": "12"
+        },
+        {
+          "index": 14,
+          "type": 4,
+          "content": "Langkah mana yang mungkin akan menghalangi perkembangan dari Narrow Intelligence ke General Intelligence ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Tepat Sekali ! Pemrosesan data adalah penghambat kita saat ini, Kita tidak yakin bagaimana membuat mesin berpikiran sama seperti manusia pikirkan.",
+          "question": "Pilih satu jawaban yang benar.",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Menerapkan Pengetahuan"
+            },
+            {
+              "index": 2,
+              "text": "Pemrosesan Data"
+            },
+            {
+              "index": 3,
+              "text": "Mengumpulkan Data"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 15,
+          "type": 0,
+          "content": "Ketika kita ",
+          "image": "terminator.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Tepat Sekali ! Pemrosesan data adalah penghambat kita saat ini, Kita tidak yakin bagaimana membuat mesin berpikiran sama seperti manusia pikirkan.",
+          "question": "Pilih satu jawaban yang benar.",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Menerapkan Pengetahuan"
+            },
+            {
+              "index": 2,
+              "text": "Pemrosesan Data"
+            },
+            {
+              "index": 3,
+              "text": "Mengumpulkan Data"
+            }
+          ],
+          "answer": "2"
         }
       ]
     }
