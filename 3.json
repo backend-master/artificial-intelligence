@@ -1,0 +1,359 @@
+{
+  "index": 3,
+  "title": "Membangun AI",
+  "total": 14,
+  "data": [
+    {
+      "index": 1,
+      "type": 0,
+      "content": "Untuk mencapai Artificial General Intelligence, para developer bergerak maju dalam beberapa bidang yang berbeda-beda. \nmari kita bicara sedikit tentang bidang-bidang ini karena ini seperti blok bangunan untuk banyak jenis AI",
+      "image": "robot2.jpg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Lanjuuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 2,
+      "type": 0,
+      "content": "AI akan lebih berguna jika kita dapat berkomunikasi dengannya secara mudah. Untuk itu, AI membutuhkan Natural Language Processing atau NLP. \nNLP adalah sesuatu yang kita gunakan setiap hari pada saat kita menanyakan sesuatu pada device kita seperti menanyakan Cuaca, Waktu ataupun Menelpon seseorang yang ada di kontak hp kita.",
+      "image": "nlp.svg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Niceeee",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 3,
+      "type": 4,
+      "content": "Dengan NLP, developer AI membuat mesin memahami hal-hal layaknya Manusia. Yah tapi itu lebih sulit daripada kedengaran-nya. \nDibawah ini mana yang akan menjadi masalah untuk dimengerti oleh AI",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Itu benar, AI harus sangat canggih untuk memahami hal-hal seperti kiasan tanpa menerimanya secara harfiah",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Beban keuangan yang signifikan "
+        },
+        {
+          "index": 2,
+          "text": "Biaya lengan dan kaki"
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "index": 4,
+      "type": 0,
+      "content": "Speech Recognition itu bagus untuk mendapatkan input, tapi mesin juga butuh belajar dari data yang dikumpulkan. \nuntuk itu, ada yang namanya Machine Learning. Machine Learning adalah langkah yang sangat vital sehingga seringkali membingungkan untuk AI",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Oke Lanjut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 5,
+      "type": 1,
+      "content": "Versi simple dari Machine Learning adalah ini : Kita memberikan banyak data sesuai dengan topic. Sebut saja gambar kucing. \nSetelah kita menampilkan ratusan atau bahkan ribuan gambar kucing pada AI, kemudian kita memberikan test. Contohnya, Coba untuk memintanya untuk memberi nama binatang di foto ini",
+      "image": "kucing.jpg",
+      "code": ["Answer: __"],
+      "output": [
+        {
+          "type": "script.js",
+          "text": "True"
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Bagus, kita tahu kita akan berhasil ketika mesin dapat mengetahui Gambar itu secara tepat. Jadi kita harus memberikan gambar kucing lebih banyak lagi.",
+      "question": "Tanda __ dapat diganti dengan ?",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Tupai"
+        },
+        {
+          "index": 2,
+          "text": "Kuda"
+        },
+        {
+          "index": 3,
+          "text": "Kucing"
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "index": 6,
+      "type": 4,
+      "content": "AI juga membutuhkan cara untuk merepresentasikan data. Atau bisa dikatakan, mereka memerlukan cara menyimpan informasi, mengaksesnya dan membandingkannya. \nRepresentasi data yang baik memungkinkan AI untuk membuat keputusan yang lebih baik",
+      "image": "db.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Yapss, Narrow artinya AI hanya akan mengerjakan keadaan yang spesifik",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 7,
+      "type": 0,
+      "content": "Tetapi bagaimana AI dapat mewakili keputusan dengan cara yang sebanding yang memungkinkan mereka untuk melihat pro dan kontra setiap opsi yang ditawarkan ?. \nKita dapat menganggap keputusan seperti percabangan dengan berbagai hasil. Kemudian kita dapat merepresentasikan demgam apa yang disebut Decision Tree",
+      "image": "",
+      "code": [
+        "         A         ",
+        "        / \\         ",
+        "       B   C           ",
+        "      / \\  \\           ",
+        "     D   E    F            "
+      ],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Lanjut!",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 8,
+      "type": 4,
+      "content": "Sebagai contoh kita dapat menggunakan Decision Tree untuk merencanakan liburan dari Malang ke Bali. \ncabang mana yang memungkinkan kita untuk sampai ke sana dan mengambil keputusan paling sedikit",
+      "image": "",
+      "code": [
+        "       Malang      ",
+        "        / \\         ",
+        "       /   \\          ",
+        "   Kediri  Bali          ",
+        "     / \\     \\           ",
+        "    /   \\     \\            ",
+        "  SBY   Bali   Bali            "
+      ],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Betul sekali, Decision Tree memungkinkan kita untuk melihat opsi mana yang memiliki langkah paling sedikit. Tapi tidak selalu berarti itu keputusan yang tepat",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Malang -> Kediri -> Bali"
+        },
+        {
+          "index": 2,
+          "text": "Malang -> Bali"
+        }
+      ],
+      "answer": "2"
+    },
+    {
+      "index": 9,
+      "type": 4,
+      "content": "Versi yang lebih rumit dari Decision Tree biasanya juga digunakan dalam semua jenis aplikasi. Itulah yang digunakan AI untuk menang di tic-tac-toe atau catur. \nMana diantara keputusan dibawah ini yang akan membawa kemenangan untuk X?",
+      "image": "tic-tac-toe.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Awesome, AI menggunakan metode yang mirip untuk menentukan keputusan setiap saat.",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "A"
+        },
+        {
+          "index": 2,
+          "text": "B"
+        }
+      ],
+      "answer": "2"
+    },
+    {
+      "index": 10,
+      "type": 0,
+      "content": "AI juga perlu sampai pada kesimpulan logis melalui penalaran. \nBanyak contoh penalaran dalam AI dilakukan melalui apa yang dinamakan Propositional Logic.",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 11,
+      "type": 0,
+      "content": "Para developer menggunakan Propotional Logic untuk menyederhanakan bahasa menjadi bagian-bagian kecil dan kemudian memberi mereka nilai-nilai seperti true atau false. \nDalam contoh ini AI akan dapat menilai nilai kebenaran dari A dan B secara terpisah dan juga nilai kebenaran dari seluruh kalimat",
+      "image": "",
+      "code": [
+        "Jika aku tetap disin maka aku akan bosan",
+        "     |_____________|      |____________|",
+        "            A                    B      "
+      ],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 12,
+      "type": 0,
+      "content": "Tapi menggunakan sesuatu seperti Propotional Logic dan Decision Tree membutuhkan lebih banyak daya komputasi karena tingkat detailnya. \nKeterbatasan Hardware saat ini yang berarti akan sangat lama untuk mencapai suatu kesimpulan / decision",
+      "image": "db.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 13,
+      "type": 0,
+      "content": "Untuk alasan tersebut, para developer juga mencari cara membuat AI yang dapat memiliki intuisi mirip manusia. \nIntuisi AI masih merupakan teori, karena itu akan membantu mesin memecahkan situasi yang tidak pasti di mana tidak ada cukup data atau terlalu banyak data",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 14,
+      "type": 0,
+      "content": "karena developers membuat kemajuan di semua bidang ini, AGI menjadi lebih dari kenyataan. \nDan segera setelah itu menjadi kenyataan, para developers akan segera menuju ke tingkat selanjutnya yaitu, Artificial Super Intelligence",
+      "image": "robot2.jpg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    }
+  ]
+}
