@@ -1,0 +1,343 @@
+{
+  "index": 3,
+  "title": "Membangun AI",
+  "total": 14,
+  "data": [
+    {
+      "index": 1,
+      "type": 0,
+      "content": "ANI memang sudah sangan berguna, tapi AGI mungkin akan mengubah lifestyle kita. \nTapi keduanya tidak dapat dibandingkan dengan AI di masa depan yaiut, ASI atau Artificial Super Intelligence. Mari kita lihat apa saja yang dibutuhkan untuk mencapai level ini.",
+      "image": "robot2.jpg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Lanjuuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 2,
+      "type": 0,
+      "content": "Jalan untuk menuju ASI mungkin akan sedikit lebih pendek dari pada ANI ke AGI. \nKalau di jadikan timeline seperti apa kira-kira?",
+      "image": "",
+      "code": [
+        "AI development timeline:",
+        "",
+        "__                __",
+        "  |__________________|_ ...",
+        "                       |",
+        "                        __"
+      ],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Perhatikan bahwa ASI tepat setelah AGI, ada beberapa alasan untuk ini",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "AGI"
+        },
+        {
+          "index": 2,
+          "text": "ANI"
+        },
+        {
+          "index": 3,
+          "text": "ASI"
+        }
+      ],
+      "answer": "213"
+    },
+    {
+      "index": 3,
+      "type": 0,
+      "content": "Developers terus mengembangkan semua bidang-bidang AI, dari Machine Learning ke Reasoning, atau Knowledge Representation",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Itu benar, AI harus sangat canggih untuk memahami hal-hal seperti kiasan tanpa menerimanya secara harfiah",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 4,
+      "type": 0,
+      "content": "Jadi apa saja langkah penting untuk teknologi AI yang lebih lanjut? Satu dari langkah pertama yaitu untuk meningkatkan Computational Power. \nUntungnya, Computational Power dari perangkat keras berakselerasi pada tingkat yang stabil dan eksponensial.",
+      "image": "chip.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Oke Lanjut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 5,
+      "type": 1,
+      "content": "Begitu stabil sampai memunculkan teori yang dikenal sebagai Hukum Moore. \nHukum ini mengatakan bahwa Computational Power berlipat ganda setiap dua tahun, dan sejauh ini sangat akurat.",
+      "image": "chip.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Oke lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 6,
+      "type": 0,
+      "content": "Langkah selanjutnya adalah meningkatkan software. Salah satu cara utama untuk melakukan itu sekarang adalah dengan meniru otak melalui Neural Network. \nNeural Network meniru fungsi otak dengan menyimpan informasi dengan jumlah kecil di setiap Neuron",
+      "image": "neural.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Yapss, Lanjut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 7,
+      "type": 0,
+      "content": "Neuron aktif dari Input ke Output. Dalam diagram ini, dari kiri ke kanan, sementara mereka mencari informasi yang cocok dengan input.",
+      "image": "",
+      "code": [" __ -> ... -> __ "],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Oke Nice, Kita lanjut.",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "Output"
+        },
+        {
+          "index": 2,
+          "text": "Input"
+        }
+      ],
+      "answer": "21"
+    },
+    {
+      "index": 8,
+      "type": 4,
+      "content": "Neural Network bisa juga rumit, tapi untuk simplenya seperti ini: Neural Network membagi informasi menjadi bagian-bagian kecil. \nApa kamu bisa tebak nomoer berapa yang menjadi akhir dari Neural Network ini",
+      "image": "neural-ask.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Yaps, itu adalah kombinasi neuron dari angka 9",
+      "question": "",
+      "choice": [
+        {
+          "index": 1,
+          "text": "1"
+        },
+        {
+          "index": 2,
+          "text": "0"
+        },
+        {
+          "index": 3,
+          "text": "9"
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "index": 9,
+      "type": 0,
+      "content": "Ketika dia mendapatkan input di kolom pertama, kemudian dia akan membandingkan dengan neuron di kolom selanjutnya dan kolom selanjutnya lagi setelahnya. \nDia melakukan itu sampai mendapatkan Output dan menemukan jawaban tercocok. Sistem ini sama halnya yang dilakukan oleh otak manusia",
+      "image": "neural-answer.png",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 10,
+      "type": 0,
+      "content": "Mungkin hanya beberapa saja yang bisa kita lakukan untuk mengembangkan AI. Setelah kita menyediakan Hardware dan Advanced Software Systems seperti Neural Network. \nAI harus melanjutkan pekerjaan itu sendiri melalui evolusi. Di situlah Genetic Algorithm ikut berperan",
+      "image": "robot2.jpg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 11,
+      "type": 0,
+      "content": "Genetic Algorithma akan bekerja melalui Survival of the Fittest. Atau serangkaian algoritma yang dibuat untuk memecahkan masalah. \nYang paling sukses dibawa ke generasi berikutnya dan disilangkan untuk membuat versi algoritma yang lebih baik",
+      "image": "",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 12,
+      "type": 0,
+      "content": "akhirnya, salah satu dari alogritma berhasil tidak hanya menyelesaikan masalah tetapi juga melakukannya secara optimal. Itulah yang akan menjadi algoritma yang paling cocok atau The Fittest Algorithm. \nMelalui teknik seperti inilah AGI akhirnya akan berkembang menjadi ASI.",
+      "image": "robot-flat.jpg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 13,
+      "type": 0,
+      "content": "AI kemudian akan berevolusi dengan sendirinya dengan sangat cepat daripada kita yang membuatnya. Dan para Developer menyebut ini dengan Intelligence Explosion. \nItu ketika perpindahan dari AGI ke ASI akan terjadi hampir secara instan.",
+      "image": "terminator.jpg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    },
+    {
+      "index": 14,
+      "type": 0,
+      "content": "Kita tidak yakin jika ASI akan menjadi baik atau buruk untuk Manusia. Nick Bostrom, seorang AI expert menyebut ini \"masalah yang sangat sulit dengan waktu yang tidak diketahui untuk menyelesaikannya\" ",
+      "image": "robot2.jpg",
+      "code": [],
+      "output": [
+        {
+          "type": "script.js",
+          "text": ""
+        },
+        {
+          "type": "browser",
+          "text": ""
+        }
+      ],
+      "note": "Ok lanjuut",
+      "question": "",
+      "choice": [],
+      "answer": ""
+    }
+  ]
+}

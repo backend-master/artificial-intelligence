@@ -295,7 +295,7 @@
     {
       "index": 12,
       "type": 0,
-      "content": "Tapi menggunakan sesuatu seperti Propotional Logic dan Decision Tree membutuhkan lebih banyak daya komputasi karena tingkat detailnya. \nKeterbatasan Hardware saat ini yang berarti akan sangat lama untuk mencapai suatu kesimpulan / decision",
+      "content": "Tapi menggunakan sesuatu seperti Propotional Logic dan Decision Tree membutuhkan lebih banyak Computational Power karena tingkat detailnya. \nKeterbatasan Hardware saat ini yang berarti akan sangat lama untuk mencapai suatu kesimpulan / decision",
       "image": "db.png",
       "code": [],
       "output": [
