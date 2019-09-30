@@ -389,6 +389,1364 @@
           "answer": ""
         }
       ]
+    },
+    {
+      "index": 2,
+      "title": "Latihan Soal tentang AI ?",
+      "total": 9,
+      "data": [
+        {
+          "index": 1,
+          "type": 0,
+          "content": "Oke ayo kita review pengetahuan kita tentang AI yang telah kita pelajari di chapter sebelumnya.",
+          "image": "book.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjuuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 2,
+          "type": 4,
+          "content": "Apa kepanjangan Dari AI ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Niceeee",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Artificial Intercation"
+            },
+            {
+              "index": 2,
+              "text": "Accidental Intelligence"
+            },
+            {
+              "index": 3,
+              "text": "Artificial Intelligence"
+            }
+          ],
+          "answer": "3"
+        },
+        {
+          "index": 3,
+          "type": 0,
+          "content": "Mana 1 dari 3 yang mendeskripsikan Mesin yang mempunyai AI",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Itu benar, Kita bisa menyebut mesin yang mempunyai AI dengan Intelligent Agents",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Intelligent Agents"
+            },
+            {
+              "index": 2,
+              "text": "Robots"
+            },
+            {
+              "index": 3,
+              "text": "Agents"
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "index": 4,
+          "type": 3,
+          "content": "Ketika kita berbicara tentang Intelligence, bagaiamana kita mengurutkan dari 3 langkah dibawah ini.",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Mantap. Pertama kita harus mengumpulkan data lalu memprosesnya, kemudian mengimplementasikan-nya.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Memproses Data"
+            },
+            {
+              "index": 2,
+              "text": "Mengumpulkan Data"
+            },
+            {
+              "index": 3,
+              "text": "Menerapkan Wawasan yang sudah Didapat"
+            }
+          ],
+          "answer": "213"
+        },
+        {
+          "index": 5,
+          "type": 4,
+          "content": "Apa saja singkatan dari 3 kategori AI yang utama?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Great",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "AN, AG, AS"
+            },
+            {
+              "index": 2,
+              "text": "SAI, GAI, NAI"
+            },
+            {
+              "index": 3,
+              "text": "ANI, AGI, ASI"
+            }
+          ],
+          "answer": "3"
+        },
+        {
+          "index": 6,
+          "type": 4,
+          "content": "Apa singkatan dari ANI ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Yapss, Narrow artinya AI hanya akan mengerjakan keadaan yang spesifik",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Artificial Narrow Intelligence"
+            },
+            {
+              "index": 2,
+              "text": "Artificial Nascent Intelligence"
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "index": 7,
+          "type": 4,
+          "content": "Dibawah ini mana yang termasuk dari Test yang terkenal untuk Artficial Intelligence ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Benar! Turing Test diciptakan oleh Alan Turing dan salah satu metode yang terkenal untuk menilai AI sudah menyerupai manusia",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Turning Test"
+            },
+            {
+              "index": 2,
+              "text": "Tatum Test"
+            },
+            {
+              "index": 3,
+              "text": "Turing Test"
+            }
+          ],
+          "answer": "3"
+        },
+        {
+          "index": 8,
+          "type": 4,
+          "content": "Apa kepanjangan dari AGI ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Betul sekali, meskipun AGI itu memang jenius dari pada ANI tapi kepanjangan dari AGI itu Artificial General Intelligence",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Artificial Genuine Intelligence"
+            },
+            {
+              "index": 2,
+              "text": "Artificial General Intelligence"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 9,
+          "type": 4,
+          "content": "Apa kepanjangan ari ASI ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Awesome",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Artificial Super Intelligence"
+            },
+            {
+              "index": 2,
+              "text": "Artificial Sentient Intelligence"
+            }
+          ],
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "Membangun AI",
+      "total": 14,
+      "data": [
+        {
+          "index": 1,
+          "type": 0,
+          "content": "Untuk mencapai Artificial General Intelligence, para developer bergerak maju dalam beberapa bidang yang berbeda-beda. \nmari kita bicara sedikit tentang bidang-bidang ini karena ini seperti blok bangunan untuk banyak jenis AI",
+          "image": "robot2.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjuuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 2,
+          "type": 0,
+          "content": "AI akan lebih berguna jika kita dapat berkomunikasi dengannya secara mudah. Untuk itu, AI membutuhkan Natural Language Processing atau NLP. \nNLP adalah sesuatu yang kita gunakan setiap hari pada saat kita menanyakan sesuatu pada device kita seperti menanyakan Cuaca, Waktu ataupun Menelpon seseorang yang ada di kontak hp kita.",
+          "image": "nlp.svg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Niceeee",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 3,
+          "type": 4,
+          "content": "Dengan NLP, developer AI membuat mesin memahami hal-hal layaknya Manusia. Yah tapi itu lebih sulit daripada kedengaran-nya. \nDibawah ini mana yang akan menjadi masalah untuk dimengerti oleh AI",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Itu benar, AI harus sangat canggih untuk memahami hal-hal seperti kiasan tanpa menerimanya secara harfiah",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Beban keuangan yang signifikan "
+            },
+            {
+              "index": 2,
+              "text": "Biaya lengan dan kaki"
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "index": 4,
+          "type": 0,
+          "content": "Speech Recognition itu bagus untuk mendapatkan input, tapi mesin juga butuh belajar dari data yang dikumpulkan. \nuntuk itu, ada yang namanya Machine Learning. Machine Learning adalah langkah yang sangat vital sehingga seringkali membingungkan untuk AI",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Oke Lanjut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 5,
+          "type": 1,
+          "content": "Versi simple dari Machine Learning adalah ini : Kita memberikan banyak data sesuai dengan topic. Sebut saja gambar kucing. \nSetelah kita menampilkan ratusan atau bahkan ribuan gambar kucing pada AI, kemudian kita memberikan test. Contohnya, Coba untuk memintanya untuk memberi nama binatang di foto ini",
+          "image": "kucing.jpg",
+          "code": ["Answer: __"],
+          "output": [
+            {
+              "type": "script.js",
+              "text": "True"
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Bagus, kita tahu kita akan berhasil ketika mesin dapat mengetahui Gambar itu secara tepat. Jadi kita harus memberikan gambar kucing lebih banyak lagi.",
+          "question": "Tanda __ dapat diganti dengan ?",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Tupai"
+            },
+            {
+              "index": 2,
+              "text": "Kuda"
+            },
+            {
+              "index": 3,
+              "text": "Kucing"
+            }
+          ],
+          "answer": "3"
+        },
+        {
+          "index": 6,
+          "type": 4,
+          "content": "AI juga membutuhkan cara untuk merepresentasikan data. Atau bisa dikatakan, mereka memerlukan cara menyimpan informasi, mengaksesnya dan membandingkannya. \nRepresentasi data yang baik memungkinkan AI untuk membuat keputusan yang lebih baik",
+          "image": "db.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Yapss, Narrow artinya AI hanya akan mengerjakan keadaan yang spesifik",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 7,
+          "type": 0,
+          "content": "Tetapi bagaimana AI dapat mewakili keputusan dengan cara yang sebanding yang memungkinkan mereka untuk melihat pro dan kontra setiap opsi yang ditawarkan ?. \nKita dapat menganggap keputusan seperti percabangan dengan berbagai hasil. Kemudian kita dapat merepresentasikan demgam apa yang disebut Decision Tree",
+          "image": "",
+          "code": [
+            "         A         ",
+            "        / \\         ",
+            "       B   C           ",
+            "      / \\  \\           ",
+            "     D   E    F            "
+          ],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjut!",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 8,
+          "type": 4,
+          "content": "Sebagai contoh kita dapat menggunakan Decision Tree untuk merencanakan liburan dari Malang ke Bali. \ncabang mana yang memungkinkan kita untuk sampai ke sana dan mengambil keputusan paling sedikit",
+          "image": "",
+          "code": [
+            "       Malang      ",
+            "        / \\         ",
+            "       /   \\          ",
+            "   Kediri  Bali          ",
+            "     / \\     \\           ",
+            "    /   \\     \\            ",
+            "  SBY   Bali   Bali            "
+          ],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Betul sekali, Decision Tree memungkinkan kita untuk melihat opsi mana yang memiliki langkah paling sedikit. Tapi tidak selalu berarti itu keputusan yang tepat",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Malang -> Kediri -> Bali"
+            },
+            {
+              "index": 2,
+              "text": "Malang -> Bali"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 9,
+          "type": 4,
+          "content": "Versi yang lebih rumit dari Decision Tree biasanya juga digunakan dalam semua jenis aplikasi. Itulah yang digunakan AI untuk menang di tic-tac-toe atau catur. \nMana diantara keputusan dibawah ini yang akan membawa kemenangan untuk X?",
+          "image": "tic-tac-toe.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Awesome, AI menggunakan metode yang mirip untuk menentukan keputusan setiap saat.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "A"
+            },
+            {
+              "index": 2,
+              "text": "B"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 10,
+          "type": 0,
+          "content": "AI juga perlu sampai pada kesimpulan logis melalui penalaran. \nBanyak contoh penalaran dalam AI dilakukan melalui apa yang dinamakan Propositional Logic.",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 11,
+          "type": 0,
+          "content": "Para developer menggunakan Propotional Logic untuk menyederhanakan bahasa menjadi bagian-bagian kecil dan kemudian memberi mereka nilai-nilai seperti true atau false. \nDalam contoh ini AI akan dapat menilai nilai kebenaran dari A dan B secara terpisah dan juga nilai kebenaran dari seluruh kalimat",
+          "image": "",
+          "code": [
+            "Jika aku tetap disin maka aku akan bosan",
+            "     |_____________|      |____________|",
+            "            A                    B      "
+          ],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 12,
+          "type": 0,
+          "content": "Tapi menggunakan sesuatu seperti Propotional Logic dan Decision Tree membutuhkan lebih banyak Computational Power karena tingkat detailnya. \nKeterbatasan Hardware saat ini yang berarti akan sangat lama untuk mencapai suatu kesimpulan / decision",
+          "image": "db.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 13,
+          "type": 0,
+          "content": "Untuk alasan tersebut, para developer juga mencari cara membuat AI yang dapat memiliki intuisi mirip manusia. \nIntuisi AI masih merupakan teori, karena itu akan membantu mesin memecahkan situasi yang tidak pasti di mana tidak ada cukup data atau terlalu banyak data",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 14,
+          "type": 0,
+          "content": "karena developers membuat kemajuan di semua bidang ini, AGI menjadi lebih dari kenyataan. \nDan segera setelah itu menjadi kenyataan, para developers akan segera menuju ke tingkat selanjutnya yaitu, Artificial Super Intelligence",
+          "image": "robot2.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "Latihan Soal tentang Membangun AI ?",
+      "total": 6,
+      "data": [
+        {
+          "index": 1,
+          "type": 0,
+          "content": "Oke ayo kita review pengetahuan kita tentang Membangun AI yang telah kita pelajari di chapter sebelumnya.",
+          "image": "book.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjuuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 2,
+          "type": 4,
+          "content": "Dibawah ini mana yang salah satunya merujuk pada bidang AI yang berkaitan dengan komunikasi ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Niceeee",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Neural Networks"
+            },
+            {
+              "index": 2,
+              "text": "Natural Language Processing"
+            },
+            {
+              "index": 3,
+              "text": "Deep Learning"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 3,
+          "type": 0,
+          "content": "Dibawah ini mana di antaranya adalah bidang penelitian AI ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Itu benar",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Machine Learning"
+            },
+            {
+              "index": 2,
+              "text": "Machine Linguistics"
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "index": 4,
+          "type": 4,
+          "content": "Apa cara terbaik untuk Merepresentasikan Data ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Mantap.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Mental Hierarchies"
+            },
+            {
+              "index": 2,
+              "text": "Decision Tree"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 5,
+          "type": 2,
+          "content": "Jika kita memisah kalimat dibawah ini dengan Propotional Logic, kalimat yang mana yang akan menghasilkan nilai True atau False",
+          "image": "",
+          "code": ["Jika Panji menembak duluan maka Tentara akan membalasnya"],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Great",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "A = Jika Panji menembak duluan"
+            },
+            {
+              "index": 2,
+              "text": "C = If...then..."
+            },
+            {
+              "index": 3,
+              "text": "B = Tentara akan membalasnya"
+            }
+          ],
+          "answer": "13"
+        },
+        {
+          "index": 6,
+          "type": 4,
+          "content": "Solusi apa yang mungkin untuk menyelesaikan masalah dimana AI tidak bisa memutuskan karena terlalu banyak data atau terlalu sedikit data.",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Yapss.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Artificial Intuition"
+            },
+            {
+              "index": 2,
+              "text": "Get More Data"
+            },
+            {
+              "index": 3,
+              "text": "Get Less Data"
+            }
+          ],
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "Super AI",
+      "total": 14,
+      "data": [
+        {
+          "index": 1,
+          "type": 0,
+          "content": "ANI memang sudah sangan berguna, tapi AGI mungkin akan mengubah lifestyle kita. \nTapi keduanya tidak dapat dibandingkan dengan AI di masa depan yaiut, ASI atau Artificial Super Intelligence. Mari kita lihat apa saja yang dibutuhkan untuk mencapai level ini.",
+          "image": "robot2.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjuuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 2,
+          "type": 0,
+          "content": "Jalan untuk menuju ASI mungkin akan sedikit lebih pendek dari pada ANI ke AGI. \nKalau di jadikan timeline seperti apa kira-kira?",
+          "image": "",
+          "code": [
+            "AI development timeline:",
+            "",
+            "__                __",
+            "  |__________________|_ ...",
+            "                       |",
+            "                        __"
+          ],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Perhatikan bahwa ASI tepat setelah AGI, ada beberapa alasan untuk ini",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "AGI"
+            },
+            {
+              "index": 2,
+              "text": "ANI"
+            },
+            {
+              "index": 3,
+              "text": "ASI"
+            }
+          ],
+          "answer": "213"
+        },
+        {
+          "index": 3,
+          "type": 0,
+          "content": "Developers terus mengembangkan semua bidang-bidang AI, dari Machine Learning ke Reasoning, atau Knowledge Representation",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Itu benar, AI harus sangat canggih untuk memahami hal-hal seperti kiasan tanpa menerimanya secara harfiah",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 4,
+          "type": 0,
+          "content": "Jadi apa saja langkah penting untuk teknologi AI yang lebih lanjut? Satu dari langkah pertama yaitu untuk meningkatkan Computational Power. \nUntungnya, Computational Power dari perangkat keras berakselerasi pada tingkat yang stabil dan eksponensial.",
+          "image": "chip.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Oke Lanjut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 5,
+          "type": 1,
+          "content": "Begitu stabil sampai memunculkan teori yang dikenal sebagai Hukum Moore. \nHukum ini mengatakan bahwa Computational Power berlipat ganda setiap dua tahun, dan sejauh ini sangat akurat.",
+          "image": "chip.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Oke lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 6,
+          "type": 0,
+          "content": "Langkah selanjutnya adalah meningkatkan software. Salah satu cara utama untuk melakukan itu sekarang adalah dengan meniru otak melalui Neural Network. \nNeural Network meniru fungsi otak dengan menyimpan informasi dengan jumlah kecil di setiap Neuron",
+          "image": "neural.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Yapss, Lanjut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 7,
+          "type": 0,
+          "content": "Neuron aktif dari Input ke Output. Dalam diagram ini, dari kiri ke kanan, sementara mereka mencari informasi yang cocok dengan input.",
+          "image": "",
+          "code": [" __ -> ... -> __ "],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Oke Nice, Kita lanjut.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Output"
+            },
+            {
+              "index": 2,
+              "text": "Input"
+            }
+          ],
+          "answer": "21"
+        },
+        {
+          "index": 8,
+          "type": 4,
+          "content": "Neural Network bisa juga rumit, tapi untuk simplenya seperti ini: Neural Network membagi informasi menjadi bagian-bagian kecil. \nApa kamu bisa tebak nomoer berapa yang menjadi akhir dari Neural Network ini",
+          "image": "neural-ask.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Yaps, itu adalah kombinasi neuron dari angka 9",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "1"
+            },
+            {
+              "index": 2,
+              "text": "0"
+            },
+            {
+              "index": 3,
+              "text": "9"
+            }
+          ],
+          "answer": "3"
+        },
+        {
+          "index": 9,
+          "type": 0,
+          "content": "Ketika dia mendapatkan input di kolom pertama, kemudian dia akan membandingkan dengan neuron di kolom selanjutnya dan kolom selanjutnya lagi setelahnya. \nDia melakukan itu sampai mendapatkan Output dan menemukan jawaban tercocok. Sistem ini sama halnya yang dilakukan oleh otak manusia",
+          "image": "neural-answer.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 10,
+          "type": 0,
+          "content": "Mungkin hanya beberapa saja yang bisa kita lakukan untuk mengembangkan AI. Setelah kita menyediakan Hardware dan Advanced Software Systems seperti Neural Network. \nAI harus melanjutkan pekerjaan itu sendiri melalui evolusi. Di situlah Genetic Algorithm ikut berperan",
+          "image": "robot2.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 11,
+          "type": 0,
+          "content": "Genetic Algorithma akan bekerja melalui Survival of the Fittest. Atau serangkaian algoritma yang dibuat untuk memecahkan masalah. \nYang paling sukses dibawa ke generasi berikutnya dan disilangkan untuk membuat versi algoritma yang lebih baik",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 12,
+          "type": 0,
+          "content": "akhirnya, salah satu dari alogritma berhasil tidak hanya menyelesaikan masalah tetapi juga melakukannya secara optimal. Itulah yang akan menjadi algoritma yang paling cocok atau The Fittest Algorithm. \nMelalui teknik seperti inilah AGI akhirnya akan berkembang menjadi ASI.",
+          "image": "robot-flat.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 13,
+          "type": 0,
+          "content": "AI kemudian akan berevolusi dengan sendirinya dengan sangat cepat daripada kita yang membuatnya. Dan para Developer menyebut ini dengan Intelligence Explosion. \nItu ketika perpindahan dari AGI ke ASI akan terjadi hampir secara instan.",
+          "image": "terminator.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 14,
+          "type": 0,
+          "content": "Kita tidak yakin jika ASI akan menjadi baik atau buruk untuk Manusia. Nick Bostrom, seorang AI expert menyebut ini \"masalah yang sangat sulit dengan waktu yang tidak diketahui untuk menyelesaikannya\" ",
+          "image": "robot2.jpg",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Ok lanjuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "title": "Latihan Soal tentang Super AI ?",
+      "total": 6,
+      "data": [
+        {
+          "index": 1,
+          "type": 0,
+          "content": "Oke ayo kita review pengetahuan kita tentang Super AI yang telah kita pelajari di chapter sebelumnya.",
+          "image": "book.png",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Lanjuuut",
+          "question": "",
+          "choice": [],
+          "answer": ""
+        },
+        {
+          "index": 2,
+          "type": 4,
+          "content": "Apa nama teori yang mengatakan bahwa Computation Power akan berkembang 2x lipat setiap 2 tahun?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Niceeee",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Moore's Law"
+            },
+            {
+              "index": 2,
+              "text": "The Law of Averages"
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "index": 3,
+          "type": 0,
+          "content": "Dibawah ini yang mana metode yang di desain untuk meniru otak manusia ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Itu benar",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Mental Hierarchies"
+            },
+            {
+              "index": 2,
+              "text": "Neural Network"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 4,
+          "type": 4,
+          "content": "Bagiamana ASI akan menjadi nyata ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Mantap.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Melalui AGI"
+            },
+            {
+              "index": 2,
+              "text": "Melalui usaha manusia saja"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 5,
+          "type": 4,
+          "content": "Apa cara yang bagus bagi AGI untuk pengembangan AI yang optimal ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Great",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Brute Force"
+            },
+            {
+              "index": 2,
+              "text": "Genetic Algorithm"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "index": 6,
+          "type": 4,
+          "content": "Apa istilah untuk AI yang ber-evolusi cepat dan tiba-tiba, dari AGI ke ASI ?",
+          "image": "",
+          "code": [],
+          "output": [
+            {
+              "type": "script.js",
+              "text": ""
+            },
+            {
+              "type": "browser",
+              "text": ""
+            }
+          ],
+          "note": "Yapss.",
+          "question": "",
+          "choice": [
+            {
+              "index": 1,
+              "text": "Intelligence Explosion"
+            },
+            {
+              "index": 2,
+              "text": "Runaway Technology"
+            }
+          ],
+          "answer": "1"
+        }
+      ]
     }
   ]
 }
